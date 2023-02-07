@@ -39,7 +39,7 @@ const Portfolio = () => {
                 <button
                   onClick={() => {
                     window.location.href =
-                      "https://github.com/Csandrade1/todoapp";
+                      "https://csandrade1.github.io/todoapp";
                   }}
                   className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105"
                 >
